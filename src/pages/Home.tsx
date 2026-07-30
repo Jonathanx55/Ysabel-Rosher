@@ -14,7 +14,7 @@ export function Home() {
             Esencias y Detalles <span className="text-gold-400">Artesanales</span>
           </h1>
           <p className="text-base md:text-xl text-white/95 max-w-2xl mx-auto mb-8 md:mb-10 font-light drop-shadow-md px-2">
-            Ysabel Rosher ofrece una colección exclusiva de productos artesanales para el cuidado de tu piel y perfumar tu hogar.
+            Ysabel Rosher ofrece una exclusiva colección de productos artesanales de alta calidad, cuidadosamente elaborados para el cuidado de la piel y la creación de ambientes únicos.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center w-full max-w-xs sm:max-w-none mx-auto">
             <Link to="/catalog" className="bg-gold-400 text-black px-8 py-4 rounded-none text-sm uppercase tracking-widest hover:bg-gold-500 transition-colors duration-300 shadow-lg w-full sm:w-auto text-center">
